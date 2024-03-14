@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Patrick Eads",
+    "login": "peads",
+    "id": "902685",
+    "html_url": "https://github.com/peads",
+    "url": "https://api.github.com/users/peads",
+    "public_repos": "10",
+    "followers": "0",
+    "following": "0"
+  },
+  {
+    "name": "Paulo Silveira",
+    "login": "peas",
+    "id": "71636",
+    "html_url": "https://github.com/peas",
+    "url": "https://api.github.com/users/peas",
+    "public_repos": "16",
+    "followers": "3749",
+    "following": "42"
+  }
+]

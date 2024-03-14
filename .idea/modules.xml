@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/APi GitHub.iml" filepath="$PROJECT_DIR$/APi GitHub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consultagit.iml" filepath="$PROJECT_DIR$/consultagit.iml" />
     </modules>
   </component>
 </project>
